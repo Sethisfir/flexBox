@@ -32,14 +32,16 @@ FlexBox:
 
 --Les sauts de pages sont possibles dans les affichages par flexible boxes via la propriété : break- .
 
---flex-grow: Indique le facteur de grossisement d'un élément flexible. Elle indique la quantité d'espace que l'élément devras consommer dans un conteneur flexible.
-![exo4](grow.png "image")
+--flex-grow: Indique le facteur de grossisement d'un élément flexible. Elle indique la quantité d'espace que l'élément devra consommer dans un conteneur flexible.
+![exo4](grow.png "image")  
+      
 --flex-schrink: Indique le facteur de rétrécissement d'un élément flexible. (Valeur initiale:1)
+![exo4](shrink.jpg "image")
 
 
 --flex-basis: Détermine la base de flexibilité utilisée comme taille initiale principale pour un élément flexible. Cette propriété détermine la taille de la boite de contenu sauf si une autre boite est viséé par "box-sizing".
 
---bow-sizing: Propriété utilisée pour modifier le modèle de boite CSSqui est utilisé pour calculer la largeur et la hauteur des éléments. Il esrt possible d'utiliser cette propriété pour émuler le comportement des navigateurs qui n'appliquent pas correctement la spécification du modèle de boite CSS.
+--box-sizing: Propriété utilisée pour modifier le modèle de boite CSSqui est utilisé pour calculer la largeur et la hauteur des éléments. Il est possible d'utiliser cette propriété pour émuler le comportement des navigateurs qui n'appliquent pas correctement la spécification du modèle de boite CSS.
 
 --flex direction: Permet d'agencer les éléments dans le sens que l'on veut.
                   --row : Organisé sur une ligne.
